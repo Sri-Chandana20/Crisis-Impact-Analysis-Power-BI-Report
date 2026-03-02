@@ -71,7 +71,7 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 - Created a Date Dimension table to classify transactions into Pre-crisis and Crisis periods.
 
-- Extracted order_date from order_timestamp in fact_orders to establish relationship with the Date dimension.
+- Extracted order_date from order_timestamp in fact_orders to establish a relationship with the Date dimension.
 
 - Identified orphan records in fact_orders that lacked matching customer_id values in dim_customer, which caused blank categories in visuals. Applied an inner join to retain only valid matching records.
 
