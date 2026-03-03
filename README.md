@@ -49,6 +49,8 @@ The **objective** was to quantify the crisis impact and identify actionable stra
   
 - Business Questions
 
+- Acknowledgments
+
 ---
 
 ### Data Source 
@@ -119,13 +121,13 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 ### Key Insights
 
-- Order cancellation % increased significantly during the crisis period across all cities, indicating operational disruption at a systemic level.
+- **Order cancellation %** increased significantly during the crisis period across all cities, indicating operational disruption at a systemic level.
 
-- Average delivery time increased during the crisis, directly impacting customer experience.
+- **Average delivery time increased** during the crisis, directly impacting customer experience.
 
-- Customer ratings declined, with reviews frequently mentioning issues such as cold food and food quality problems.
+- **Customer ratings declined,** with reviews frequently mentioning issues such as cold food and food quality problems.
 
-- Certain restaurants experienced higher order losses than others, suggesting uneven resilience among vendor partners.
+- **Certain restaurants** experienced **higher order losses** than others, suggesting uneven resilience among vendor partners.
 
 - The crisis impacted customers, delivery performance, and restaurant partners simultaneously.
 
@@ -133,15 +135,15 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 ### Recommendations
 
-- Improve demand forecasting models during uncertain periods to handle sudden demand fluctuations.
+- **Improve demand forecasting models** during uncertain periods to handle sudden demand fluctuations.
 
-- Strengthen coordination between restaurants and delivery partners to reduce cancellations.
+- **Strengthen coordination between restaurants and delivery partners** to reduce cancellations.
 
-- Implement real-time order tracking and proactive delay communication to manage customer expectations.
+- Implement **real-time order tracking** and proactive delay communication to manage customer expectations.
 
-- Monitor vendor-level performance more closely to identify quality issues early.
+- **Monitor vendor-level performance** more closely to identify quality issues early.
 
-- Set realistic delivery timelines during the crisis periods to maintain customer trust.
+- **Set realistic delivery timelines** during the crisis periods to maintain customer trust.
 
 ---
 
@@ -151,7 +153,7 @@ The report has 4 pages with a Pre-Crisis and Crisis comparison.
 
 - **Page 1:** Crisis Impact Overview - KPIs (Customers, Orders, Revenue, and Average Order Value), Revenue and Demand trends, City-wise crisis impact comparison table.
 
-- **Page 2:** Operational Breakdown Analysis - KPIs (Order Cancellation %, Average Delivery Time, SLA Breach %, and Average Rating), Rating trend, High-volume vendor performance table and customer sentiment insights.
+- **Page 2:** Operational Breakdown Analysis - KPIs (Order Cancellation %, Average Delivery Time, SLA Breach %, and Average Rating), Rating trend, High-volume vendor performance table, and customer sentiment insights.
 
 - **Page 3:** Recovery Strategies - Actionable insights from the analysis.
 
@@ -168,6 +170,8 @@ The report has 4 pages with a Pre-Crisis and Crisis comparison.
 The crisis had a significant financial impact on the business.
 Revenue declined by **70.9%**, and total orders declined by **69.8%**, showing a sharp drop in customer demand during the crisis period.
 
+---
+
 **2. Did delivery performance deteriorate?**
   
 Yes, delivery performance worsened during the crisis.
@@ -178,6 +182,8 @@ Yes, delivery performance worsened during the crisis.
 
 This confirms that operational efficiency was significantly affected.
 
+---
+
 **3. Which cities or vendors were most affected?**
   
 The **impact** was largely **systemic** rather than city-specific.
@@ -185,6 +191,8 @@ Almost all cities experienced a similar decline in demand.
 
 **High-volume vendors** (with more than 50 orders in the pre-crisis period) saw a severe drop in orders, with many falling to below 10 orders during the crisis.
 This indicates that even strong-performing vendors were **heavily affected.**
+
+---
 
 **4. How did customer sentiment change?**
   
@@ -200,6 +208,6 @@ This suggests that delivery delays and operational challenges negatively impacte
 
 ### Acknowledgments
 
-Special thanks to Dhaval Patel Sir, Hemanand Vadivel Sir, and Codebasics for providing the dataset used in this analysis project.
+Special thanks to **Dhaval Patel Sir, Hemanand Vadivel Sir, and Codebasics** for providing the dataset used in this analysis project.
 The dataset enabled hands-on practice in data modeling, transformation, and business analysis.
 
