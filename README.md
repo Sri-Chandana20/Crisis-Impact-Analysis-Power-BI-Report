@@ -49,8 +49,6 @@ The **objective** was to quantify the crisis impact and identify actionable stra
   
 - Business Questions
   
-- KPIs Tracked
-  
 - Learning Outcomes
 
 ---
@@ -107,7 +105,7 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 ### Tools & Technologies Used
 
-- Power BI Desktop (Data Modeling & Visualization)
+- Power BI Desktop (Data Modeling & Visualisation)
 
 - Power Query (ETL & Data Transformation)
 
@@ -123,5 +121,46 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 ### Key Insights
 
-- 
+- Order cancellation % increased significantly during the crisis period across all cities, indicating operational disruption at a systemic level.
 
+- Average delivery time increased during the crisis, directly impacting customer experience.
+
+- Customer ratings declined, with reviews frequently mentioning issues such as cold food and food quality problems.
+
+- Certain restaurants experienced higher order losses than others, suggesting uneven resilience among vendor partners.
+
+- The crisis impacted customers, delivery performance, and restaurant partners simultaneously.
+
+---
+
+### Recommendations
+
+- Improve demand forecasting models during uncertain periods to handle sudden demand fluctuations.
+
+- Strengthen coordination between restaurants and delivery partners to reduce cancellations.
+
+- Implement real-time order tracking and proactive delay communication to manage customer expectations.
+
+- Monitor vendor-level performance more closely to identify quality issues early.
+
+- Set realistic delivery timelines during the crisis periods to maintain customer trust.
+
+---
+
+### Power BI Report
+
+The report has 4 pages with a Pre-Crisis and Crisis comparison.
+
+- **Page 1:** Crisis Impact Overview - KPIs (Customers, Orders, Revenue, and Average Order Value), Revenue and Demand trends, City-wise crisis impact comparison table.
+
+- **Page 2:** Operational Breakdown Analysis - KPIs (Order Cancellation %, Average Delivery Time, SLA Breach %, and Average Rating), Rating trend, High-volume vendor performance table and customer sentiment insights.
+
+- **Page 3:** Recovery Strategies - Actionable insights from the analysis.
+
+- **Page 4:** About - About - Overview, objective, data source, tools used, and analyst profile.
+
+[Check out the report here!](https://tinyurl.com/mt7aphnk)
+
+---
+
+### Business Questions
