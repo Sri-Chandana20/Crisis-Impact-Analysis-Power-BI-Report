@@ -91,17 +91,17 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 ### DAX Measures
 
-- Total Orders – DISTINCTCOUNT(order_id)
+- Total Orders – **DISTINCTCOUNT**(order_id)
 
-- Total Revenue – SUM(order_amount)
+- Total Revenue – **SUM**(order_amount)
 
-- Average Delivery Time – AVERAGE(delivery_time)
+- Average Delivery Time – **AVERAGE**(delivery_time)
 
-- Crisis vs Pre-Crisis Analysis – CALCULATE() with date-based filtering
+- Crisis vs Pre-Crisis Analysis – **CALCULATE()** with date-based filtering
 
-- Ratings Analysis – AVERAGE(rating)
+- Ratings Analysis – **AVERAGE**(rating)
 
-- Percentage Change – DIVIDE() to handle safe division and avoid errors
+- Percentage Change – **DIVIDE()** to handle safe division and avoid errors
 
 ---
 
