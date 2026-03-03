@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="QBE.png" width="140"/>
+</p>
+
 <h1 align="center"> Crisis Impact Analysis </h1>
 
 ### Overview
