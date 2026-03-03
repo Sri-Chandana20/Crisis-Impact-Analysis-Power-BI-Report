@@ -39,7 +39,7 @@ The **objective** was to quantify the crisis impact and identify actionable stra
   
 - DAX Measures
 
-- Tools Used
+- Tools & Technologies Used 
 
 - Key Insights
   
@@ -61,7 +61,7 @@ The dataset consists of 4 dimension tables and 4 fact tables.
 
 **Dimension Tables:** dim_customer, dim_delivery_partner, dim_menu_item, and dim_restaurant
 
-**Fact Tables:** fact_orders, fact_order_items, fact_delivery_performance, fact_ratings
+**Fact Tables:** fact_orders_actual, fact_order_items, fact_delivery_performance, fact_ratings
 
 Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-project-challenge/23)
 
@@ -80,4 +80,48 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 ---
 
 ### Data Modeling
+
+- Designed a **star schema** with fact_orders_actual as the central fact table connected to dimension tables such as customer, restaurant, delivery partner, and date through **many-to-one** relationships.
+
+- Implemented a **one-to-one** relationship between fact_orders_actual and fact_delivery_performance, as both tables operate at the order-level granularity.
+
+- All **relationships** were configured as **active** to ensure accurate filtering and aggregation across metrics.
+
+---
+
+### DAX Measures
+
+- Total Orders – DISTINCTCOUNT(order_id)
+
+- Total Revenue – SUM(order_amount)
+
+- Average Delivery Time – AVERAGE(delivery_time)
+
+- Crisis vs Pre-Crisis Analysis – CALCULATE() with date-based filtering
+
+- Ratings Analysis – AVERAGE(rating)
+
+- Percentage Change – DIVIDE() to handle safe division and avoid errors
+
+---
+
+### Tools & Technologies Used
+
+- Power BI Desktop (Data Modeling & Visualization)
+
+- Power Query (ETL & Data Transformation)
+
+- DAX (Analytical Calculations)
+
+- Star Schema Data Modeling Concepts
+
+- Power BI Service (Report publishing and sharing)
+
+- CSV Data Source
+
+---
+
+### Key Insights
+
+- 
 
