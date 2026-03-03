@@ -48,8 +48,6 @@ The **objective** was to quantify the crisis impact and identify actionable stra
 - Power BI Report
   
 - Business Questions
-  
-- Learning Outcomes
 
 ---
 
@@ -164,3 +162,38 @@ The report has 4 pages with a Pre-Crisis and Crisis comparison.
 ---
 
 ### Business Questions
+
+**1. How severe was the revenue and order decline?**
+  
+The crisis had a significant financial impact on the business.
+Revenue declined by **70.9%**, and total orders declined by **69.8%**, showing a sharp drop in customer demand during the crisis period.
+
+**2. Did delivery performance deteriorate?**
+  
+Yes, delivery performance worsened during the crisis.
+
+**Average delivery time** increased from 39.5 minutes to 60.1 minutes, which is a **52.1% increase.**
+
+**SLA Breach percentage increased** by **55.5%**, indicating that more orders were delivered later than the promised time.
+
+This confirms that operational efficiency was significantly affected.
+
+**3. Which cities or vendors were most affected?**
+  
+The **impact** was largely **systemic** rather than city-specific.
+Almost all cities experienced a similar decline in demand.
+
+**High-volume vendors** (with more than 50 orders in the pre-crisis period) saw a severe drop in orders, with many falling to below 10 orders during the crisis.
+This indicates that even strong-performing vendors were **heavily affected.**
+
+**4. How did customer sentiment change?**
+  
+Customer sentiment shifted from **positive to negative** during the crisis.
+
+**Before the crisis,** reviews commonly included phrases like **“fresh and delicious,” “excellent service,” and “loved it.”**
+
+**During the crisis,** reviews frequently mentioned **“food quality issues,” “food safety concerns,” and delays.**
+
+This suggests that delivery delays and operational challenges negatively impacted customer satisfaction.
+
+
