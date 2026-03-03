@@ -196,4 +196,10 @@ Customer sentiment shifted from **positive to negative** during the crisis.
 
 This suggests that delivery delays and operational challenges negatively impacted customer satisfaction.
 
+---
+
+### Acknowledgments
+
+Special thanks to Dhaval Patel Sir, Hemanand Vadivel Sir, and Codebasics for providing the dataset used in this analysis project.
+The dataset enabled hands-on practice in data modeling, transformation, and business analysis.
 
