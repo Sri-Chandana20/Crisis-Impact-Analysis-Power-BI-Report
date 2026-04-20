@@ -143,7 +143,7 @@ Dataset link: [Codebasics](https://codebasics.io/challenges/codebasics-resume-pr
 
 - **Strengthen coordination between restaurants and delivery partners** to reduce cancellations.
 
-- Implement **real-time order tracking** and proactive delay communication to manage customer expectations.
+- Enhance **real-time order tracking** and proactive delay communication to manage customer expectations.
 
 - **Monitor vendor-level performance** more closely to identify quality issues early.
 
