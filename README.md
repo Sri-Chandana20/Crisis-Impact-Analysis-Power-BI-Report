@@ -163,7 +163,7 @@ The report has 4 pages with a Pre-Crisis and Crisis comparison.
 
 - **Page 4:** About - Overview, objective, data source, tools used, and analyst profile.
 
-[Check out the report here!](https://tinyurl.com/mt7aphnk)
+[Check out the report here!](https://app.powerbi.com/view?r=eyJrIjoiZGIzZWJkMzktMTY4Mi00ODBiLWJmOTgtZDVjOWE5MzYzM2M0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
