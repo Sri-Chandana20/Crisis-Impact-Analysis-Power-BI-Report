@@ -161,13 +161,13 @@ The report has 4 pages with a Pre-Crisis and Crisis comparison.
 
 - **Page 3:** Recovery Strategies - Actionable insights from the analysis.
 
-- **Page 4:** About - About - Overview, objective, data source, tools used, and analyst profile.
+- **Page 4:** About - Overview, objective, data source, tools used, and analyst profile.
 
 [Check out the report here!](https://tinyurl.com/mt7aphnk)
 
 ---
 
-### Business Questions
+### Business Questions Solved
 
 **1. How severe was the revenue and order decline?**
   
